@@ -1,9 +1,9 @@
-const name = "Raviraj";
+const name = "Raviraj"
 
-console.log(name);
+console.log(name)
 
 // trying to modify the variable 
 // not modified and not reinitialize & reassign
 
-name = "Aade";
-console.log(name);
+// name = "Aade"
+// console.log(name)
