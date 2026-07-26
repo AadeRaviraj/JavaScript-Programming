@@ -9,3 +9,7 @@ console.log(`Type of 'str2' = ${str2} : ` + typeof(str2));
 console.log(`Type of 'val1' = ${val1} : ` + typeof(val1));
 console.log(`Type of 'val2' = ${val2} : ` + typeof(val2));
 console.log(`Type of 'myNum' = ${myNum} : ` + typeof(myNum));
+
+let varBigint =  9999999999999999999993874563475634873478999999999999999999999999999n;
+
+console.log(`Type of 'varBigint' = ${varBigint} : ` + typeof(varBigint));
