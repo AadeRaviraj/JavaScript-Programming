@@ -13,3 +13,5 @@ let str2 = "6";
 let num2 = "2";
 
 console.log(Number(str2) + num2) // 62
+
+
